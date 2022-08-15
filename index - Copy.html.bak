@@ -1,0 +1,928 @@
+<!doctype html>
+<!--[if IE 7 ]>    <html lang="en-gb" class="isie ie7 oldie no-js"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-gb" class="isie ie8 oldie no-js"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en-gb" class="isie ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-gb" class="no-js"> <!--<![endif]-->
+
+
+<!-- Mirrored from gsrthemes.com/joosa/layout3/fullwidth/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 08 Jan 2018 04:37:07 GMT -->
+<head>
+	<title>Coastal Care Clinic </title>
+	
+	<meta charset="utf-8">
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+    
+    <!-- Favicon --> 
+	<link rel="shortcut icon" href="images/favicon.html">
+    
+    <!-- this styles only adds some repairs on idevices  -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    
+    <!-- Google fonts - witch you want to use - (rest you can just remove) -->
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans:400,800,700italic,700,600italic,600,400italic,300italic,300|Roboto:100,300,400,500,700&amp;subset=latin,latin-ext' type='text/css' />
+    
+    <!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+    
+    <!-- ######### CSS STYLES ######### -->
+	
+    <link rel="stylesheet" href="css/reset.css" type="text/css" />
+	<link rel="stylesheet" href="css/style.css" type="text/css" />
+    
+    <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
+    
+    <!-- responsive devices styles -->
+	<link rel="stylesheet" media="screen" href="css/responsive-leyouts.css" type="text/css" />
+      
+<!-- just remove the below comments witch bg patterns you want to use --> 
+    <!--<link rel="stylesheet" href="css/bg-patterns/pattern-default.css" />-->
+    <!--<link rel="stylesheet" href="css/bg-patterns/pattern-one.css" />-->
+    <!--<link rel="stylesheet" href="css/bg-patterns/pattern-two.css" />-->
+    <!--<link rel="stylesheet" href="css/bg-patterns/pattern-three.css" />-->
+    <!--<link rel="stylesheet" href="css/bg-patterns/pattern-four.css" />-->
+    <!--<link rel="stylesheet" href="css/bg-patterns/pattern-five.css" />-->
+    <!--<link rel="stylesheet" href="css/bg-patterns/pattern-six.css" />-->
+    <!--<link rel="stylesheet" href="css/bg-patterns/pattern-seven.css" />-->
+    <!--<link rel="stylesheet" href="css/bg-patterns/pattern-eight.css" />-->
+    <!--<link rel="stylesheet" href="css/bg-patterns/pattern-nine.css" />-->
+    <!--<link rel="stylesheet" href="css/bg-patterns/pattern-ten.css" />-->
+    <!--<link rel="stylesheet" href="css/bg-patterns/pattern-eleven.css" />-->
+    <!--<link rel="stylesheet" href="css/bg-patterns/pattern-twelve.css" />-->
+    <!--<link rel="stylesheet" href="css/bg-patterns/pattern-thirteen.css" />-->
+    
+    <!-- style switcher -->
+    <link rel = "stylesheet" media = "screen" href = "js/style-switcher/color-switcher.css" />
+    
+    <!-- sticky menu -->
+    <link rel="stylesheet" href="js/sticky-menu/core.css">
+    
+
+    <link rel="stylesheet" type="text/css" href="js/revolutionslider/css/slider_main.css" media="screen" />
+    
+    <!-- jquery jcarousel -->
+    <link rel="stylesheet" type="text/css" href="js/jcarousel/skin.css" />
+    <link rel="stylesheet" type="text/css" href="js/jcarousel/skin2.css" />
+    <link rel="stylesheet" type="text/css" href="js/jcarousel/skin3.css" />
+	
+	<!-- faqs -->
+    <link rel="stylesheet" href="js/accordion/accordion.css" type="text/css" media="all">
+ 
+</head>
+
+<body>
+
+<div class="site_wrapper">
+   
+
+<!-- HEADER -->
+<div class="joosa top_section">
+<header id="header">
+ 
+	<div id="trueHeader">
+    
+	<div class="wrapper">
+    
+     <div class="container">
+    
+		<!-- Logo -->
+		<div class="logo_main"><a href="index.html" id="logo"></a>
+		
+		</div>
+		
+        <!-- Menu -->
+        <div class="menu_main">
+        
+        	<div class="joosa top_links">Call Us: <strong>044 - 27 444 234 </strong> <a href="contact.html" class="makeap_but">Make an Appointment</a></div>
+           
+        <nav id="access" class="access" role="navigation">
+            <div id="menu" class="menu">
+                <ul id="tiny">
+                    <li><a href="index.html" class="active">Home</a></li>  
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="tabs.html">Doctors</i></a></li>
+                    <li><a href="portfolio-six.html">Gallery</a>
+                    </li>
+                    <li><a href="contact.html">Contact</a></li>
+                    
+                </ul>
+            </div>
+        </nav>
+      
+        </div><!-- end nav menu -->
+              
+	</div>
+		
+	</div>
+    
+	</div>
+    
+</header>
+</div><!-- end header -->
+
+<div class="clearfix mar_top13"></div>
+ 
+<!-- Slider
+======================================= -->  
+
+<div class="container_full">
+    
+    <div class="tp-banner-container">
+		<div class="tp-banner" >
+        
+			<ul>
+
+                <!-- SLIDE 2 -->
+				<li data-transition="zoomout" data-slotamount="7" data-masterspeed="800" >
+                
+					<!-- MAIN IMAGE -->
+					<img src="images/sliders/revolution/slider-bg2.jpg" alt="slidebg1"  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+                    
+					<!-- <div class="tp-caption mediumlarge_light_white skewfromleft customout"
+						data-x="0"
+						data-y="125"
+						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+						data-speed="800"
+						data-start="900"
+						data-easing="Power4.easeOut"
+						data-endspeed="300"
+						data-endeasing="Power1.easeIn"
+						data-captionhidden="on"
+						style="z-index: 6">5 Diffrent Module
+					</div>
+                    
+					<div class="tp-caption large_bold_white customin ltl"
+						data-x="0"
+						data-y="170"
+						data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+						data-speed="1000"
+						data-start="1000"
+						data-easing="Back.easeInOut"
+						data-endspeed="400"
+						data-endeasing="Back.easeIn"
+						style="z-index: 14">Get <strong>Smarter Stuff!</strong>
+					</div>
+ 
+					<div class="tp-caption medium_light_white skewfromright customout"
+						data-x="0"
+						data-y="245"
+						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+						data-speed="800"
+						data-start="1800"
+						data-easing="Power4.easeOut"
+						data-endspeed="300"
+						data-endeasing="Power1.easeIn"
+						data-captionhidden="on"
+						style="z-index: 6">Providing credible health information supportive community. <br />Keep your workforce healthy and We care about you.
+					</div>
+                     
+					<div class="tp-caption customin ltl"
+						data-x="0"
+						data-y="340"
+						data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+						data-speed="1000"
+						data-start="2200"
+						data-easing="Back.easeInOut"
+						data-endspeed="400"
+						data-endeasing="Back.easeIn"
+						style="z-index: 16"><a href="#" class="button_slider"><i class="fa fa-hand-o-right"></i>&nbsp; Contact Us </a>
+					</div>
+                    
+					<div class="tp-caption customin ltl"
+						data-x="200"
+						data-y="340"
+						data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+						data-speed="1000"
+						data-start="2300"
+						data-easing="Back.easeInOut"
+						data-endspeed="400"
+						data-endeasing="Back.easeIn"
+						style="z-index: 16"><a href="#" class="button_slider_02"><i class="fa fa-location-arrow"></i>&nbsp; get started</a>
+					</div> -->
+                    
+				</li>
+            	<!-- SLIDE 1 -->
+				<li data-transition="fade" data-slotamount="7" data-masterspeed="800" >
+                
+					<!-- MAIN IMAGE -->
+					<img src="images/sliders/revolution/slider-bg1.jpg" alt="slidebg1"  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+
+                    <div class="tp-caption customout sfr"
+						data-x="right" data-hoffset="0"
+						data-y="0"
+                        data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+						data-speed="800"
+						data-start="900"
+						data-easing="Power4.easeOut"
+						data-endspeed="500"
+						data-endeasing="Power1.easeIn"
+						data-captionhidden="on"
+						style="z-index: 3"><img src="images/sliders/revolution/slide1.png" alt="">
+					</div>
+                    
+					<!-- <div class="tp-caption mediumlarge_light_white skewfromleft customout"
+						data-x="0"
+						data-y="125"
+						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+						data-speed="800"
+						data-start="1500"
+						data-easing="Power4.easeOut"
+						data-endspeed="300"
+						data-endeasing="Power1.easeIn"
+						data-captionhidden="on"
+						style="z-index: 6">trust worthy and timely
+					</div>
+                    
+					<div class="tp-caption large_bold_white customin ltl"
+						data-x="0"
+						data-y="170"
+						data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+						data-speed="1000"
+						data-start="1800"
+						data-easing="Back.easeInOut"
+						data-endspeed="400"
+						data-endeasing="Back.easeIn"
+						style="z-index: 14">health <strong>&amp; medical</strong>
+					</div> -->
+ 
+					<!-- <div class="tp-caption medium_light_white skewfromright customout"
+						data-x="0"
+						data-y="245"
+						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+						data-speed="800"
+						data-start="2700"
+						data-easing="Power4.easeOut"
+						data-endspeed="300"
+						data-endeasing="Power1.easeIn"
+						data-captionhidden="on"
+						style="z-index: 6">Providing credible health information supportive community. <br />Keep your workforce healthy and We care about you.
+					</div> -->
+                     
+					<!-- <div class="tp-caption customin ltl"
+						data-x="0"
+						data-y="340"
+						data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+						data-speed="1000"
+						data-start="3000"
+						data-easing="Back.easeInOut"
+						data-endspeed="400"
+						data-endeasing="Back.easeIn"
+						style="z-index: 16"><a href="#" class="button_slider"><i class="fa fa-hand-o-right"></i>&nbsp; Subscribe </a>
+					</div>
+                     -->
+					<!-- <div class="tp-caption customin ltl"
+						data-x="200"
+						data-y="340"
+						data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+						data-speed="1000"
+						data-start="3000"
+						data-easing="Back.easeInOut"
+						data-endspeed="400"
+						data-endeasing="Back.easeIn"
+						style="z-index: 16"><a href="#" class="button_slider_02"><i class="fa fa-location-arrow"></i>&nbsp; get started</a>
+					</div> -->
+                    
+				</li>
+                
+                
+                <!-- SLIDE 3 -->
+				<li data-transition="slidedown" data-slotamount="7" data-masterspeed="800" >
+                
+					<!-- MAIN IMAGE -->
+					<img src="images/sliders/revolution/slider-bg3.jpg" alt="slidebg1"  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+                    
+					<!-- <div class="tp-caption mediumlarge_light_white skewfromleft customout"
+						data-x="0"
+						data-y="125"
+						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+						data-speed="800"
+						data-start="900"
+						data-easing="Power4.easeOut"
+						data-endspeed="300"
+						data-endeasing="Power1.easeIn"
+						data-captionhidden="on"
+						style="z-index: 6">Personnel Care &amp; Stay Healthy
+					</div>
+                    
+					<div class="tp-caption large_bold_white customin ltl"
+						data-x="0"
+						data-y="170"
+						data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+						data-speed="1000"
+						data-start="1000"
+						data-easing="Back.easeInOut"
+						data-endspeed="400"
+						data-endeasing="Back.easeIn"
+						style="z-index: 14">Attractive <strong>Prices</strong>
+					</div>
+ 
+					<div class="tp-caption medium_light_white skewfromright customout"
+						data-x="0"
+						data-y="245"
+						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+						data-speed="800"
+						data-start="1800"
+						data-easing="Power4.easeOut"
+						data-endspeed="300"
+						data-endeasing="Power1.easeIn"
+						data-captionhidden="on"
+						style="z-index: 6">Providing credible health information supportive community. <br />Keep your workforce healthy and We care about you.
+					</div>
+                     
+					<div class="tp-caption customin ltl"
+						data-x="0"
+						data-y="340"
+						data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+						data-speed="1000"
+						data-start="2200"
+						data-easing="Back.easeInOut"
+						data-endspeed="400"
+						data-endeasing="Back.easeIn"
+						style="z-index: 16"><a href="#" class="button_slider"><i class="fa fa-hand-o-right"></i>&nbsp; Get </a>
+					</div>
+                    
+					<div class="tp-caption customin ltl"
+						data-x="200"
+						data-y="340"
+						data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+						data-speed="1000"
+						data-start="2300"
+						data-easing="Back.easeInOut"
+						data-endspeed="400"
+						data-endeasing="Back.easeIn"
+						style="z-index: 16"><a href="#" class="button_slider_02"><i class="fa fa-location-arrow"></i>&nbsp; started</a>
+					</div> -->
+                    
+				</li>
+                
+                <!-- SLIDE 4 -->
+				<li data-transition="slideup" data-slotamount="7" data-masterspeed="800" >
+                
+					<!-- MAIN IMAGE -->
+					<img src="images/sliders/revolution/slider-bg4.jpg" alt="slidebg1"  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+                    
+					<!-- <div class="tp-caption mediumlarge_light_white skewfromleft customout"
+						data-x="0"
+						data-y="125"
+						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+						data-speed="800"
+						data-start="900"
+						data-easing="Power4.easeOut"
+						data-endspeed="300"
+						data-endeasing="Power1.easeIn"
+						data-captionhidden="on"
+						style="z-index: 6">Corpo. Creative. Host. Medical. OnePage.
+					</div>
+                    
+					<div class="tp-caption large_bold_white customin ltl"
+						data-x="0"
+						data-y="170"
+						data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+						data-speed="1000"
+						data-start="1000"
+						data-easing="Back.easeInOut"
+						data-endspeed="400"
+						data-endeasing="Back.easeIn"
+						style="z-index: 14">MultiPurpose <strong>Use</strong>
+					</div>
+ 
+					<div class="tp-caption medium_light_white skewfromright customout"
+						data-x="0"
+						data-y="245"
+						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+						data-speed="800"
+						data-start="1800"
+						data-easing="Power4.easeOut"
+						data-endspeed="300"
+						data-endeasing="Power1.easeIn"
+						data-captionhidden="on"
+						style="z-index: 6">Providing credible health information supportive community. <br />Keep your workforce healthy and We care about you.
+					</div>
+                     
+					<div class="tp-caption customin ltl"
+						data-x="0"
+						data-y="340"
+						data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+						data-speed="1000"
+						data-start="2200"
+						data-easing="Back.easeInOut"
+						data-endspeed="400"
+						data-endeasing="Back.easeIn"
+						style="z-index: 16"><a href="#" class="button_slider"><i class="fa fa-hand-o-right"></i>&nbsp; Subscibe </a>
+					</div>
+                    
+					<div class="tp-caption customin ltl"
+						data-x="200"
+						data-y="340"
+						data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+						data-speed="1000"
+						data-start="2300"
+						data-easing="Back.easeInOut"
+						data-endspeed="400"
+						data-endeasing="Back.easeIn"
+						style="z-index: 16"><a href="#" class="button_slider_02"><i class="fa fa-location-arrow"></i>&nbsp; get started</a>
+					</div> -->
+                    
+				</li>
+                
+                     
+                
+			</ul>
+
+		</div>
+	</div>
+
+</div><!-- end slider -->
+
+<div class="clearfix"></div>
+<div class="mar_top4"></div>
+
+<div class="joosa fusectio1">
+	<div class="container">
+        <div class="one_full">
+        	<h3><strong>ABOUT COASTAL CARE CLINIC</strong></h3>
+            
+            <div class="ind_news">
+                	<!-- <h5>Many web sites still their infancy. <em>January 04, 2014</em></h5>  -->
+                	We at Coastal Care Clinic offer in and around the stretch of ECR, Medical Services with the latest state of the art facilities at par with leading pioneer hospitals. We have ventured into a new start-up with round the clock OP Services, 10 IP beds, Ambulance, Emergency, Pharmacy, Physiotherapy, Lab, X-Ray, ECG, Ultrasonogram, Well-Woman Clinic, Diabetology, Cardiology, Geriatrics, Pediatrics, OB & G, Home Care and domiciliary services, and planning to extend our services into ICU & OT surgical procedures in the near future.<br><br>
+
+					We have dedicated efficient caring Doctors, skilled and trained staff Nurses, meritorious Pharmacists, highly qualified Physiotherapist, spick and span House-Keeping services and a warmth-rendering smart smiling friendly Receptionists.<br><br>
+
+					We have been in the same place offering reliable, affordable and effective medical care since 2000 and have earned the trust of local people as well an excellent reputation far and wide of ECR. We assured that the experience of our hospitality will definitely have an imprint of everlasting nostalgic memories in your life time. Under the able guidance of our Chairman Dr.B.R.Srinivasan and Director Dr.R.Vanitha Kumari,    We strive hard to achieve our goal of “ADVANCED CARE, PERSONAL TOUCH”
+
+ 
+                
+               
+                <!-- <a href="#">All Hospital News</a> -->
+            
+        	</div>
+        </div><!-- end news section -->
+        
+        
+		   
+	</div>
+</div><!-- end features section 1 -->
+
+<div class="clearfix mar_top5"></div>
+
+<div class="joosa fusectio2">
+	<div class="container">
+	
+        <h1><!-- <i>medically requirments</i> -->
+        services we are providing
+        </h1>
+        
+        <div class="one_fourth">
+        	<div class="zoom_img">
+            <ul><li>
+            <a href="services.html">
+            <!-- <div class="hide_contdiv">Radiology Associates offers the full range of diagnostic x-ray studies... more ></div> -->
+            <img src="images/services/ambulance.jpg" class="blog" alt="" /><h5>Ambulance / Home Care</h5>
+            </a>
+            </li></ul>
+            </div>
+        </div><!-- end section -->
+        
+        <div class="one_fourth">
+        	<div class="zoom_img">
+            <ul><li>
+            <a href="services.html">
+            <!-- <div class="hide_contdiv">The Section of Adult and Pediatric Endocrinology, Diabetes and Metabolism offers outpatient diagnostic and treatment programs... more ></div> -->
+            <img src="images/services/thumb/ambulance.jpg" class="blog" alt="" /><h5>Pharmacy</h5>
+            </a>
+            </li></ul>
+            </div>
+        </div><!-- end section -->
+        
+        <div class="one_fourth">
+        	<div class="zoom_img">
+            <ul><li>
+            <a href="services.html">
+            <!-- <div class="hide_contdiv">Our Medical Laboratory Services builds long term relationships with our referring physicians and patients by providing high quality pathology services... more ></div> -->
+            <img src="images/services/thumb/roundtheclock.jpg" class="blog" alt="" /><h5>Round the Clock Healthcare Services</h5>
+            </a>
+            </li></ul>
+            </div>
+        </div><!-- end section -->
+        
+        <div class="one_fourth last">
+        	<div class="zoom_img">
+            <ul><li>
+            <a href="services.html">
+            <!-- <div class="hide_contdiv">Our Medical is focused on delivering high quality, safe and timely scans for patients... more ></div> -->
+            <img src="images/services/thumb/womencare.jpg" class="blog" alt="" /><h5>Well Woman Clinic</h5>
+            </a>
+            </li></ul>
+            </div>
+        </div><!-- end section -->
+        
+        <div class="clearfix mar_top2"></div>
+        
+		<div class="one_fourth">
+        	<div class="zoom_img">
+            <ul><li>
+            <a href="#">
+            <!-- <div class="hide_contdiv">Coastal Healthcare has a ready team of medical and non-medical caregivers ready to provide home healthcare to your loved... more ></div> -->
+            <img src="images/services/thumb/automatedlab.jpg" class="blog" alt="" /><h5>Automated Laboratory</h5>
+            </a>
+            </li></ul>
+            </div>
+        </div><!-- end section -->
+        
+        <div class="one_fourth">
+        	<div class="zoom_img">
+            <ul><li>
+            <a href="#">
+            <!-- <div class="hide_contdiv">For those who require inpatient care, we offer effective treatment and rehabilitation programmes... more ></div> -->
+            <img src="images/services/thumb/digitalxray.jpg" class="blog" alt="" /><h5>Digital X-Ray</h5>
+            </a>
+            </li></ul>
+            </div>
+        </div><!-- end section -->
+        
+        <div class="one_fourth">
+        	<div class="zoom_img">
+            <ul><li>
+            <a href="#">
+            <!-- <div class="hide_contdiv">Our experts in medicines, and use their clinical expertise, together with their practical knowledge, to advise you on common problems... more ></div> -->
+            <img src="images/services/thumb/ultrasonogram.jpg" class="blog" alt="" /><h5>Ultrasonogram</h5>
+            </a>
+            </li></ul>
+            </div>
+        </div><!-- end section -->
+        
+        <div class="one_fourth last">
+        	<div class="zoom_img">
+            <ul><li>
+            <a href="#">
+            <!-- <div class="hide_contdiv">General medicine is the medical specialty dealing with the prevention... more ></div> -->
+            <img src="images/services/thumb/computerisedecg.jpg" class="blog" alt="" /><h5>Computerised ECG</h5>
+            </a>
+            </li></ul>
+            </div>
+        </div><!-- end section -->
+
+
+        <!-- <div class="one_fourth last">
+        	<div class="zoom_img">
+            <ul><li>
+            <a href="#">
+            <img src="images/siteimg-joosa18.jpg" class="blog" alt="" /><h5>Inpatient Ward</h5>
+            </a>
+            </li></ul>
+            </div>
+        </div>
+
+        <div class="one_fourth last">
+        	<div class="zoom_img">
+            <ul><li>
+            <a href="#">
+            <img src="images/siteimg-joosa18.jpg" class="blog" alt="" /><h5>Emergency / Trauma Care</h5>
+            </a>
+            </li></ul>
+            </div>
+        </div>
+        <div class="one_fourth last">
+        	<div class="zoom_img">
+            <ul><li>
+            <a href="#">
+            <img src="images/siteimg-joosa18.jpg" class="blog" alt="" /><h5>Health Check / Screening</h5>
+            </a>
+            </li></ul>
+            </div>
+        </div> -->
+            
+	</div>
+</div><!-- end features section 2 -->
+
+
+
+<div class="clearfix mar_top5"></div>
+
+<div class="joosa fusectio4">
+	<div class="container">
+    	
+
+        
+        
+    </div>
+</div><!-- end features section 4 -->
+
+<div class="clearfix mar_top3"></div>
+
+		<div class="fresh_projects">
+					<div class="container">
+								<h1><i>meet Doctors of our Team</i>
+										our <strong>professional</strong> doctors
+								</h1>
+						
+<ul id="mycarouseltwo" class="jcarousel-skin-tango">
+		  
+			<li>
+				<div class="item">                        
+				<div class="fresh_projects_list">
+					<section class="cheapest">
+						<div class="display">                  
+							<div class="small-group">        
+								<div class="small money">
+										<img src="images/doctor-img1.jpg" alt="">
+										<div class="info">
+											<div class="title">Dr.B.R.Srinivasan.,<span><small> MBBS.,</small></span>
+											<!-- <ul>
+												<li><a href="#"><img src="images/fa-icon.png" alt="" /></a></li>
+												<li><a href="#"><img src="images/twitter-icon.png" alt="" /></a></li>
+												<li><a href="#"><img src="images/like-icon.png" alt="" /></a></li>
+											</ul> -->
+											</div>
+											<!-- <div class="additionnal">
+												There are many variations pasages
+												lpsum available but in the majority
+												have suffered alteration [...]<br /><br />
+												<b><a href="#">more ></a></b>
+											</div> -->
+										</div>
+										<div class="hover"></div> 
+								</div>        
+							</div>     
+						</div>
+					</section>
+				</div>
+				</div>
+			</li><!-- end item -->
+			
+			<li>
+				<div class="item">                        
+				<div class="fresh_projects_list">
+					<section class="cheapest">
+						<div class="display">                  
+							<div class="small-group">        
+								<div class="small money">
+										<img src="images/doctor-img6.jpg" alt="">
+										<div class="info">
+											<div class="title">Dr.Vanitha kumari.,<span><small> MBBS.,DGO.,</small></span><br>
+											</div>
+											<!-- <ul>
+												<li><a href="#"><img src="images/fa-icon.png" alt="" /></a></li>
+												<li><a href="#"><img src="images/twitter-icon.png" alt="" /></a></li>
+												<li><a href="#"><img src="images/like-icon.png" alt="" /></a></li>
+											</ul> -->
+											
+											<!-- <div class="additionnal">
+												There are many variations pasages
+												lpsum available but in the majority
+												have suffered alteration [...]<br /><br />
+												<b><a href="#">more ></a></b>
+											</div> -->
+										</div>
+										<div class="hover"></div> 
+								</div>        
+							</div>     
+						</div>
+					</section>
+				</div>
+				</div>
+			</li><!-- end item -->
+			
+
+</ul>
+					</div>
+			
+			<div class="clearfix mar_top2"></div>
+		</div><!-- end fresh projects -->
+
+<div class="clearfix mar_top5"></div>
+
+
+
+<div class="clearfix mar_top4"></div>
+
+
+<div class="clearfix"></div>
+
+<!-- Footer
+======================================= -->
+
+<div class="footer">
+	<div class="container">
+    
+   		<div class="one_fourth">
+            
+            <div class="footer_logo"><img src="#" alt="" /></div><!-- end footer logo -->
+			<h2>Address</i></h2>
+            
+            <ul class="contact_address">
+                <li><a><i class="fa fa-map-marker fa-lg"></i>&nbsp; No.654, East Coast Road<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kanathur</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kanjeepuram<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tamilnadu, India 603112 </a></li>
+                <li><a><i class="fa fa-phone"></i>&nbsp;+91 - 91760 64 222</a></li>
+                <li><a><i class="fa fa-phone"></i>&nbsp;+91 - 91760 65 222</a></li>
+                <li><a><i class="fa fa-phone"></i>&nbsp;044 - 27 444 234 </a></li>
+                <!-- <--<li><a><img src="images/footer-wmap.png" alt="" /></a></li>-->
+            </ul>
+            
+        </div><!-- end address section -->
+        
+        <div class="one_fourth">
+        	
+            <h2>Navigation Links</i></h2>
+            
+            <ul class="list">
+                <li><a href="index.html"></i> Home </a></li>
+                <li><a href="services.html"></i>Services</a></li>
+                <li><a href="portfolio-six.html"></i>Gallery</a></li>
+                <li><a href="tabs.html"></i> Doctors</a></li>
+                <li><a href="contact.html"></i>Contact</a></li>
+                
+            </ul>
+            
+        </div><!-- end useful links -->
+         
+        <div class="one_fourth">
+        	
+            <h2>Doctors</i></h2>
+            
+            <ul class="list">
+                <li><a href="#"></i>Dr.B.R.Srinivasan., MBBS.,</a></li>
+                <li><a href="#"></i>Dr.Vanitha Kumari., MBBS.,DGO.,</a></li>
+                
+            </ul>
+            </ul>
+            
+        </div><!-- end useful links -->
+        
+        
+        <div class="one_fourth last">
+        	
+            <h2>Gallery <i>Photos</i></h2>
+            
+        	<!-- <div id="flickr_badge_wrapper">
+            	<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=9&amp;display=latest&amp;size=s&amp;layout=h&amp;source=user&amp;user=93382411%40N07"></script>     
+            </div> -->
+			<img src="images/snippets_img/1 (1).JPG" width="30%" border="0" alt="">
+			<img src="images/snippets_img/1 (2).JPG" width="30%" border="0" alt="">
+			<img src="images/snippets_img/1 (3).JPG" width="30%" border="0" alt="">
+			<img src="images/snippets_img/1 (4).JPG" width="30%" border="0" alt="">
+			<img src="images/snippets_img/1 (5).JPG" width="30%" border="0" alt="">
+			<img src="images/snippets_img/1 (6).JPG" width="30%" border="0" alt="">
+			<img src="images/snippets_img/1 (7).JPG" width="30%" border="0" alt="">
+			<img src="images/snippets_img/1 (8).JPG" width="30%" border="0" alt="">
+			<img src="images/snippets_img/1 (2).JPG" width="30%" border="0" alt="">
+        </div><!-- end flickr -->
+
+             
+    </div>
+	
+    <div class="clearfix"></div>
+    
+</div>
+
+<div class="copyright_info">
+
+    <div class="container">
+    
+        <div class="one_half">
+        
+            <b>Copyright © 2018 Touchsky.in. All rights reserved.  <a href="#">Terms of Use</a> | <a href="#">Privacy Policy</a></b>
+            
+        </div>
+    
+    	<div class="one_half last">
+     		
+            <ul class="footer_social_links">
+                <!-- <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                <li><a href="#"><i class="fa fa-flickr"></i></a></li>
+                <li><a href="#"><i class="fa fa-html5"></i></a></li>
+                <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                <li><a href="#"><i class="fa fa-rss"></i></a></li> -->
+            </ul>
+                
+    	</div>
+    
+    </div>
+    
+</div><!-- end copyright info -->
+
+<a href="#" class="scrollup">Scroll</a><!-- end scroll to top of the page-->
+
+<!-- style switcher -->
+<script type="text/javascript" src="js/style-switcher/styleswitcher.js"></script>
+
+
+    
+<!-- ######### JS FILES ######### -->
+
+<!-- get jQuery from the google apis -->
+<script type="text/javascript" src="js/universal/jquery.js"></script>
+
+<!-- style switcher -->
+<script src="js/style-switcher/jquery-1.js"></script>
+<script src="js/style-switcher/styleselector.js"></script>
+
+<!-- main menu -->
+<script type="text/javascript" src="js/mainmenu/ddsmoothmenu.js"></script>
+
+<script type="text/javascript" src="js/mainmenu/selectnav.js"></script>
+
+<!-- jquery jcarousel -->
+<script type="text/javascript" src="js/jcarousel/jquery.jcarousel.min.js"></script>
+
+<!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
+<script type="text/javascript" src="js/revolutionslider/rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+<script type="text/javascript" src="js/revolutionslider/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+
+<script type="text/javascript" src="js/mainmenu/scripts.js"></script>
+
+<!-- scroll up -->
+<script type="text/javascript">
+    $(document).ready(function(){
+ 
+        $(window).scroll(function(){
+            if ($(this).scrollTop() > 100) {
+                $('.scrollup').fadeIn();
+            } else {
+                $('.scrollup').fadeOut();
+            }
+        });
+ 
+        $('.scrollup').click(function(){
+            $("html, body").animate({ scrollTop: 0 }, 500);
+            return false;
+        });
+ 
+    });
+</script>
+
+<!-- jquery jcarousel -->
+<script type="text/javascript">
+
+	jQuery(document).ready(function() {
+			jQuery('#mycarousel').jcarousel();
+	});
+	
+	jQuery(document).ready(function() {
+			jQuery('#mycarouseltwo').jcarousel();
+	});
+	
+	jQuery(document).ready(function() {
+			jQuery('#mycarouselthree').jcarousel();
+	});
+	
+	jQuery(document).ready(function() {
+			jQuery('#mycarouselfour').jcarousel();
+	});
+	
+</script>
+
+<!-- accordion -->
+<script type="text/javascript" src="js/accordion/custom.js"></script>
+
+<!-- REVOLUTION SLIDER -->
+<script type="text/javascript">
+
+	var revapi;
+
+	jQuery(document).ready(function() {
+
+		   revapi = jQuery('.tp-banner').revolution(
+			{
+				delay:9000,
+				startwidth:1170,
+				startheight:500,
+				hideThumbs:10,
+				fullWidth:"on",
+				forceFullWidth:"on"
+			});
+
+	});	//ready
+
+</script>
+
+<!-- fade news -->
+<script type="application/javascript">
+(function() {
+    var quotes = $(".quotes");
+    var quoteIndex = -1;
+    
+    function showNextQuote() {
+        ++quoteIndex;
+        quotes.eq(quoteIndex % quotes.length)
+            .fadeIn(1000)
+            .delay(4000)
+            .fadeOut(1000, showNextQuote);
+    }
+    
+    showNextQuote();
+	
+})();
+</script>
+
+<script type="text/javascript" src="js/sticky-menu/core.js"></script>
+<script type="text/javascript" src="js/sticky-menu/modernizr.custom.75180.js"></script>
+
+</body>
+
+<!-- Mirrored from gsrthemes.com/joosa/layout3/fullwidth/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 08 Jan 2018 04:38:24 GMT -->
+</html>
